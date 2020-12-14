@@ -1,6 +1,6 @@
 # Why Hello There 👋
 
-<img width="20%" align="right" alt="Memoji" src="https://kowalski.io/assets/memoji.jpg" />
+<img width="20%" align="right" alt="Memoji" src="https://user-images.githubusercontent.com/1323467/102125932-646e0080-3e18-11eb-8031-ab530428d1af.png" />
 
 I'm Brandon, your friendly neighborhood geek. 
 
