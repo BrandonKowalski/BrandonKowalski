@@ -4,7 +4,7 @@
 
 I'm Brandon, your friendly neighborhood geek. 
 
-- 💼 I’m currently the senior software engineer and jack of all trades at [Cornell University Library](https://library.cornell.edu)
+- 💼 I’m currently a senior software engineer and jack of all trades at [Cornell University Library](https://library.cornell.edu)
 - 🕶 On the side, I cofounded [Abstract Elemental](https://AbstractElemental.com) with my good friend [@TimParsons](https://github.com/TimParsons)
 - 💻 ```Java```, ```TypeScript``` & ```SQL``` are my 🍞 & 🧈
 - 🍕 may or may not be my spirit animal
