@@ -1,6 +1,6 @@
 # Oh hey, didn't see you there! 👋🏻
 
-<img width="20%" align="right" alt="Memoji" src="https://user-images.githubusercontent.com/1323467/102125932-646e0080-3e18-11eb-8031-ab530428d1af.png" />
+<img width="25%" align="right" alt="K-Wall Brick Wall Logo" src="https://github.com/user-attachments/assets/5cb1cf2d-c8ad-47e4-b819-abc52c3dc332" />
 
 I'm Brandon, your friendly neighborhood geek.
 - Senior software engineer and jack of all trades at [Cornell University Library](https://library.cornell.edu)
