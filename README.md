@@ -7,5 +7,5 @@ I'm Brandon, your friendly neighborhood geek.
 - There's a certain beauty to dumpster fires → [Kowalski.io](https://kowalski.io)
 
 <p align="center">
-  <img width="25%" alt="K-Wall Brick Wall Logo" src="https://github.com/user-attachments/assets/5cb1cf2d-c8ad-47e4-b819-abc52c3dc332" />
+  <img width="75%" alt="K-Wall Brick Wall Logo" src="https://github.com/user-attachments/assets/5cb1cf2d-c8ad-47e4-b819-abc52c3dc332" />
 </p>
