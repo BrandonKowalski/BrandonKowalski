@@ -6,4 +6,6 @@ I'm Brandon, your friendly neighborhood geek.
 - My current obsession is building cool stuff for retro handhelds
 - There's a certain beauty to dumpster fires → [Kowalski.io](https://kowalski.io)
 
-<img width="25%" align="middle" alt="K-Wall Brick Wall Logo" src="https://github.com/user-attachments/assets/5cb1cf2d-c8ad-47e4-b819-abc52c3dc332" />
+<p align="center">
+  <img width="25%" alt="K-Wall Brick Wall Logo" src="https://github.com/user-attachments/assets/5cb1cf2d-c8ad-47e4-b819-abc52c3dc332" />
+</p>
