@@ -1,8 +1,6 @@
 # Oh hey, didn't see you there! 👋🏻
 
-<table>
-<tr>
-<td>
+<img align="right" width="15%" alt="K-Wall Brick Wall Logo" src="https://github.com/user-attachments/assets/5cb1cf2d-c8ad-47e4-b819-abc52c3dc332" />
 
 I'm Brandon, your friendly neighborhood geek.
 
@@ -11,11 +9,4 @@ I'm Brandon, your friendly neighborhood geek.
 - My current obsession is building cool stuff for retro handhelds
 - There's a certain beauty to dumpster fires → [Kowalski.io](https://kowalski.io)
 
-</td>
-<td width="15%">
-
-<img alt="K-Wall Brick Wall Logo" src="https://github.com/user-attachments/assets/5cb1cf2d-c8ad-47e4-b819-abc52c3dc332" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
